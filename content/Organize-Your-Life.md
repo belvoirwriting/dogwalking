@@ -1,8 +1,8 @@
 ---
 title: Holistic dog walking
-date: 2021-08-21T23:00:00+00:00
+date: 2021-08-21T23:00:00.000+00:00
 description: This is a dog woof woof woof
-type: featured
+type: post
 image: "/images/75b8a659-d381-48f5-83da-bca24dc27195.jpeg"
 categories:
 - Valuable Idea
@@ -11,7 +11,7 @@ tags:
 - Finance
 
 ---
- All of our walks are chosen for proximity to ley lines
+All of our walks are chosen for proximity to ley lines
 
 ![](../images/post-img.jpg)
 
