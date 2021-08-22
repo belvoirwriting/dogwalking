@@ -42,13 +42,12 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: This is meta description
+  description: Dog walking in the Vale of Belvoir
   preloader: true
   search: true
-  author: Themefisher
+  author: Jules
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
+  bio: I'm a dog walker based in Granby in the Vale of Belvoir
   mobile: "+90 000 333 22"
   email: exmaple@ymail.com
   address: 6 rip carl Avenue CA 90733
