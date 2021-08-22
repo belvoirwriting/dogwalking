@@ -2,7 +2,7 @@
 title: Organize Your Life With 10 Simple rule
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-type: featured
+type: post
 image: "/images/88c4eaa4-ba5b-4551-b395-bef6d3db5a18.jpeg"
 categories:
 - Fashion
