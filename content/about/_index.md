@@ -5,20 +5,6 @@ description: This is meta description
 image: images/author.jpg
 
 ---
-Woof woof woof woof woof woof woof woof woof woof woof woof woof.
+I am an independent dog walker in the Vale Of Belvoir. I also offer day care, over night stays and pop in visits, tailored to meet your dog's individual needs.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I have a dog of my own called Ernie. He is a friendly and lively red cocker spaniel who loves to socialise with other dogs and is a much loved member of the family!
