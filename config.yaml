@@ -4,7 +4,7 @@ languageCode: en-us
 title: Jules - dog walking and daycare
 module:
   imports:
-  - path: github.com/themefisher/parsa-hugo
+  - path: github.com/belvoirwriting/parsa-hugo
     mounts:
     - source: layouts
       target: layouts
